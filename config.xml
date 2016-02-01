@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="com.phonegap.GoDigital" version="2.0.0" xmlns="http://www.w3.org/ns/widgets">
-  <name>GoDigital</name>
-  <description>GoDigital</description>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="com.phonegap.GDNDigital" version="2.0.0" xmlns="http://www.w3.org/ns/widgets">
+  <name>GDN Digital</name>
+  <description> Global Delivery Network Digital </description>
   <author href="https://www.accenture.com/Digital" email="support@accenture.com">
     GDN Digital
   </author>
   <content src="index.html" />
-  <icon src="/images/icons/AppIcon.png" />
+  <icon src="/images/icons/AppIcon.png"/>
   <access origin="*" />
   <access origin="tel:*" launch-external="yes" />
   <access origin="mailto:*" launch-external="yes" />
